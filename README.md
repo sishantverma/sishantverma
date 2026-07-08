@@ -1,83 +1,89 @@
 <h1 align="center">Hi 👋, I'm Sishant Verma</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | AI & IoT Enthusiast</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • AI Enthusiast • B.Tech CSE Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Hackathon+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Web+%26+App+Developer;Hackathon+Enthusiast;Always+Learning+New+Things!" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 **B.Tech CSE (Core)** at **PSIT Kanpur**
-- 💻 Passionate about **Web Development, App Development & AI**
-- 🌱 Currently learning **Next.js, React Native, Machine Learning & Cloud**
-- 🚀 Love building real-world projects that solve problems
+- 🎓 B.Tech CSE (Core) @ **PSIT Kanpur**
+- 💻 Passionate about Web Development, AI & IoT
+- 📱 Building Full Stack Web & Mobile Apps
+- 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🏆 Hackathon Enthusiast
-- 📫 Reach me: **your-email@gmail.com**
+- 🌱 Currently Learning React Native, Next.js & AI
+- ⚡ Fun Fact: I love building products that solve real-world problems.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://instagram.com/just_sishant" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<p align="center">
+
+<a href="https://instagram.com/just_sishant">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/sishant-verma/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sishantverma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
 </p>
 
-### ⚙ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase"/>
 </p>
 
-### 📱 Mobile Development
+### Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter"/>
 </p>
 
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-</p>
-
-### 🗄 Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase"/>
 </p>
 
-### 🛠 Tools
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,appwrite,canva"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,appwrite,figma"/>
 </p>
 
 ---
@@ -85,22 +91,22 @@
 # 🚀 Featured Projects
 
 ### 🐄 FarmRakshak
-> AI-powered livestock disease detection using image analysis, weather monitoring, vaccination records, and farm management.
+AI-powered livestock disease detection using image recognition, weather analysis, vaccination tracking, and farm management.
 
 ---
 
 ### 🖨 PrintOHub
-> Smart self-service printing kiosk with QR upload, online payment, and automated printing.
+Smart self-printing kiosk with QR upload, Razorpay payment, and automated printing.
 
 ---
 
 ### 🚐 VanOtech
-> College transportation app featuring live tracking, instant booking, and verified drivers.
+College transportation app featuring live tracking, instant booking, and verified drivers.
 
 ---
 
 ### ⚠ SafePath
-> Road safety application providing accident alerts, damaged road notifications, and emergency assistance.
+Road safety application with accident alerts, damaged road notifications, and emergency assistance.
 
 ---
 
@@ -116,7 +122,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishantverma&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishantverma&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,6 +148,24 @@
 
 ---
 
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sishantverma&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sishantverma&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sishantverma&theme=tokyonight"/>
+
+</p>
+
+---
+
 # ✍ Random Dev Quote
 
 <p align="center">
@@ -152,7 +176,7 @@
 
 ---
 
-# 😂 Random Dev Meme
+# 😂 Random Dev Joke
 
 <p align="center">
 
@@ -164,12 +188,16 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sishantverma&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sishantverma&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</p>
